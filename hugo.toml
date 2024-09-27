@@ -1,0 +1,149 @@
+baseURL = "https://anthonycastaneda.com/"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+paginate = "7"
+theme = "spectral"
+title = "Spectral"
+#googleAnalytics = "G-XXXXXXXXXX"
+
+[params]
+body_is_markdown = true 
+copyright = "Anthony Castañeda" 
+description = 'Anthony, Not Tony' 
+fancyTitle = "Anthony Castañeda" # title for frontpage, may include image
+startbuttonLink = "#one" 
+startbuttonText = "Big Red Button" 
+#custom_css = "static/custom.css"
+#custom_sass = "bar.scss"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+[[params.menu.main]]
+title = "Home"
+url = '/'
+
+#[[params.menu.main]]
+#title = "Posts"
+#url = '/posts/'
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[params.one]
+body = '''
+I am a dad, a drummer, and an IT guy that lives in Texas.  I work in authentication currently, handling SSO.  SAML, OIDC, OAuth2. One of my sons told me that I like computers 'too much.'  Maybe so.  I also really like mechanical keyboards, history, city planning, and messing around with static site generators. 
+'''
+enable = true
+title = 'About me'
+
+[[params.one.icon]]
+icon = "fa-drum"
+label = "Lorem"
+style = "1"
+
+[[params.one.icon]]
+icon = "fa-keyboard"
+label = "Ipsum"
+style = "2"
+
+[[params.one.icon]]
+icon = "solid fa-anchor"
+label = "Dolor"
+style = "3"
+
+[params.two]
+enable = false
+
+[[params.two.section]]
+body = 'Our little lake. '
+img = "img/lake.jpg"
+img_alt = "my lake"
+title = 'Hey There, Lake'
+
+[[params.two.section]]
+body = 'She passed away recently.  She was a good girl.'
+img = "img/radar2.jpg"
+title = 'This was my dog'
+
+[[params.two.section]]
+body = 'My drums.  Since moving away from Austin, I only use these to give lessons.'
+img = "img/drums.jpg"
+title = 'Drums'
+
+[params.three]
+body = '''
+Nothing was ever here.
+'''
+enable = false
+title = 'There is nothing here'
+
+[[params.three.feature]]
+body = "This town is overrun with feral cats.  They are seriously everywhere."
+icon = "fa-cat"
+title = "Damn cats"
+
+[[params.three.feature]]
+body = "My dog would go nuts barking at them, but she never caught one.  I'm sure the cat would have whooped up on her."
+icon = "solid fa-shield-dog"
+title = "The Protector"
+
+[[params.three.feature]]
+body = """
+To quote the Dread Pirate Roberts: "Life is pain.  Anyone who says differently is selling something."
+"""
+icon = "solid fa-heart-crack"
+title = "Sad Songs"
+
+[[params.three.feature]]
+body = "As if I wasn't nerdy enough, I am also into flags. I have two flag poles on my porch."
+icon = "solid fa-flag"
+title = "Vexillology"
+
+[params.cta]
+body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+enable = false
+title = "Arcue ut vel commodo"
+
+[[params.cta.link]]
+href = "#"
+special = true
+text = "Incinerate"
+
+[[params.cta.link]]
+href = "#"
+special = false
+text = "Unfair"
+
+[params.contact]
+address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+body = "Leave me a message."
+email = "nospam@example.com"
+enable = false
+formspree_form_id = "example_invalid"
+phone = "+49 (0) 030 000 000"
+subject = "New Submission!"
+title = "Contact"
+
+[params.social]
+dribble = ""
+facebook = ""
+github = ""
+instagram = ""
+mastodon = ""
+twitter = ""
+youtube = ""
+
+# language specific options
+
+[languages.en]
+languageName = "English"
+weight = 0
+
+[languages.de]
+languageName = "Deutsch"
+weight = 10
+
+[languages.es]
+languageName = "Español"
+weight = 10
