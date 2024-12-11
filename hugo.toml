@@ -79,14 +79,14 @@ enable = true
 title = 'There is nothing here'
 
 [[params.three.feature]]
-body = "This town is overrun with feral cats.  They are seriously everywhere."
-icon = "fa-cat"
-title = "Damn cats"
+body = "I'd like to travel someday, but I probably will never get to."
+icon = "fa-plane-departure"
+title = "See the World"
 
 [[params.three.feature]]
-body = "My dog would go nuts barking at them, but she never caught one.  I'm sure the cat would have whooped up on her."
-icon = "solid fa-shield-dog"
-title = "The Protector"
+body = "I used to work as a mechanic at a bowling alley.  I do not bowl, so it was a little boring.  If you have issues with your AMF 82-70 Pinspotter, I'm your man."
+icon = "solid fa-bowling-ball"
+title = "Bowling Alleys"
 
 [[params.three.feature]]
 body = """
