@@ -12,7 +12,7 @@ copyright = "Anthony Castañeda"
 description = 'Anthony, Not Tony' 
 fancyTitle = "Anthony Castañeda" # title for frontpage, may include image
 startbuttonLink = "#one" 
-startbuttonText = "Big Red Button" 
+startbuttonText = "Vamos" 
 #custom_css = "static/custom.css"
 #custom_sass = "bar.scss"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -35,7 +35,7 @@ body = '''
 I am a dad, a drummer, and an IT guy that lives in Texas.  I work in authentication currently, handling SSO. SAML, OIDC, OAuth2. One of my sons told me that I like computers 'too much.'  Maybe so.  I also really like mechanical keyboards, history, city planning, and messing around with static site generators. 
 '''
 enable = true
-title = 'About me'
+title = 'About Me'
 
 [[params.one.icon]]
 icon = "fa-drum"
