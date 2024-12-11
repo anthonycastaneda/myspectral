@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 languageCode = "en-us"
 paginate = "7"
 theme = "spectral"
-title = "Spectral"
+title = "Anthony"
 #googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
@@ -32,7 +32,7 @@ tag = "tags"
 
 [params.one]
 body = '''
-I am a dad, a drummer, and an IT guy that lives in Texas.  I work in authentication currently, handling SSO.  SAML, OIDC, OAuth2. One of my sons told me that I like computers 'too much.'  Maybe so.  I also really like mechanical keyboards, history, city planning, and messing around with static site generators. 
+I am a dad, a drummer, and an IT guy that lives in Texas.  I work in authentication currently, handling SSO. SAML, OIDC, OAuth2. One of my sons told me that I like computers 'too much.'  Maybe so.  I also really like mechanical keyboards, history, city planning, and messing around with static site generators. 
 '''
 enable = true
 title = 'About me'
@@ -53,7 +53,7 @@ label = "Dolor"
 style = "3"
 
 [params.two]
-enable = false
+enable = true
 
 [[params.two.section]]
 body = 'Our little lake. '
@@ -75,7 +75,7 @@ title = 'Drums'
 body = '''
 Nothing was ever here.
 '''
-enable = false
+enable = true
 title = 'There is nothing here'
 
 [[params.three.feature]]
@@ -116,19 +116,19 @@ special = false
 text = "Unfair"
 
 [params.contact]
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-body = "Leave me a message."
-email = "nospam@example.com"
+address = "Did you have any feedback for me?"
+body = "Send me a message."
+email = "anthony@anthonycastaneda.com"
 enable = false
-formspree_form_id = "example_invalid"
-phone = "+49 (0) 030 000 000"
-subject = "New Submission!"
-title = "Contact"
+formspree_form_id = "movqwpvp"
+phone = "1 512 555 5555"
+subject = "Feedback"
+title = "Feedback"
 
 [params.social]
 dribble = ""
 facebook = ""
-github = ""
+github = "anthonycastaneda"
 instagram = ""
 mastodon = ""
 twitter = ""
