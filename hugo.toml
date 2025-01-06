@@ -38,7 +38,7 @@ enable = true
 title = 'About Me'
 
 [[params.one.icon]]
-icon = "fa-drum"
+icon = "fa-terminal"
 label = "Lorem"
 style = "1"
 
@@ -79,9 +79,9 @@ enable = true
 title = 'There is nothing here'
 
 [[params.three.feature]]
-body = "I'd like to travel someday, but I probably will never get to."
-icon = "fa-plane-departure"
-title = "See the World"
+body = "Nothing compares to the expense and inconvenience of vinyl. "
+icon = "fa-record-vinyl"
+title = "Music"
 
 [[params.three.feature]]
 body = "I used to work as a mechanic at a bowling alley.  I do not bowl, so it was a little boring.  If you have issues with your AMF 82-70 Pinspotter, I'm your man."
