@@ -68,7 +68,7 @@ title = 'This was my dog'
 
 [[params.two.section]]
 body = 'My drums.  Since moving away from Austin, I only use these to give lessons.'
-img = "img/drums.jpg"
+img = "img/drums.png"
 title = 'Drums'
 
 [params.three]
