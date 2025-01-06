@@ -38,7 +38,7 @@ enable = true
 title = 'About Me'
 
 [[params.one.icon]]
-icon = "fa-terminal"
+icon = "solid fa-terminal"
 label = "Lorem"
 style = "1"
 
@@ -80,7 +80,7 @@ title = 'There is nothing here'
 
 [[params.three.feature]]
 body = "Nothing compares to the expense and inconvenience of vinyl. "
-icon = "fa-record-vinyl"
+icon = "solid fa-record-vinyl"
 title = "Music"
 
 [[params.three.feature]]
