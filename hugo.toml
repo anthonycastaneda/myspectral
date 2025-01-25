@@ -21,9 +21,9 @@ startbuttonText = "Vamos"
 title = "Home"
 url = '/'
 
-#[[params.menu.main]]
-#title = "Posts"
-#url = '/posts/'
+[[params.menu.main]]
+title = "Posts"
+url = '/posts/'
 
 [taxonomies]
 category = "categories"
