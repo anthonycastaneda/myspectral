@@ -56,15 +56,15 @@ style = "3"
 enable = true
 
 [[params.two.section]]
-body = 'Our little lake. '
+body = 'Our little lake. It has been in my wifes family for a long time.'
 img = "img/lake.jpg"
 img_alt = "my lake"
 title = 'Hey There, Lake'
 
 [[params.two.section]]
-body = 'She passed away recently.  She was a good girl.'
-img = "img/radar2.jpg"
-title = 'This was my dog'
+body = 'One year my mom got me the Holy Grail for my birthday.  She chose wisely.  I was very impressed that she was able to find it.'
+img = "img/grail.png"
+title = 'The Holy Grail'
 
 [[params.two.section]]
 body = 'My drums.  Since moving away from Austin, I only use these to give lessons.'
@@ -132,7 +132,7 @@ github = "anthonycastaneda"
 instagram = ""
 mastodon = ""
 twitter = ""
-youtube = ""
+youtube = "@TacoAnthony"
 
 # language specific options
 
