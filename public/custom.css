@@ -1,0 +1,42 @@
+/* main.min.09224b467f2c555409865abcdf41f1274d28443d62fe5328ebcd73347b9dd264ae5252ade861e8ea1e4e114804b96f4720a7117f83b8e24922fd71f04afbbb08.css | http://localhost:1313/css/main.min.09224b467f2c555409865abcdf41f1274d28443d62fe5328ebcd73347b9dd264ae5252ade861e8ea1e4e114804b96f4720a7117f83b8e24922fd71f04afbbb08.css */
+
+.wrapper.style1 {
+  /* background-color: #21b2a6; */
+  /* color: #c8ece9; */
+  background-color: #112f4e;
+  color: #ffffff;
+}
+
+.wrapper.style1 header.major p {
+  /* color: #c8ece9; */
+  color: #fff;
+}
+
+.icon.style1 {
+  /* color: #0fc; */
+  color: #33ff33;
+}
+
+.wrapper.style1 .icon.major {
+  /* border-color: rgba(0,0,0,.125); */
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+.wrapper.style1 header.major h2,
+.wrapper.style1 header.major h3,
+.wrapper.style1 header.major h4,
+.wrapper.style1 header.major h5,
+.wrapper.style1 header.major h6 {
+  /* border-color: rgba(0,0,0,.125); */
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+#menu {
+  /* background: #21b2a6; */
+  background: #112f4e;
+}
+
+#menu ul > li {
+  /* border-top: solid 1px rgba(0,0,0,.125); */
+  border-top: solid 1px rgba(255, 255, 255, 0.8);
+}

@@ -1,7 +1,7 @@
 baseURL = "https://anthonycastaneda.com/"
 defaultContentLanguage = "en"
 languageCode = "en-us"
-paginate = "7"
+#paginate = "7"
 theme = "spectral"
 title = "Anthony"
 #googleAnalytics = "G-XXXXXXXXXX"
@@ -9,11 +9,11 @@ title = "Anthony"
 [params]
 body_is_markdown = true 
 copyright = "Anthony Castañeda" 
+custom_css = "css/custom.css" 
 description = 'Anthony, Not Tony' 
 fancyTitle = "Anthony Castañeda" # title for frontpage, may include image
 startbuttonLink = "#one" 
 startbuttonText = "Vamos" 
-#custom_css = "static/custom.css"
 #custom_sass = "bar.scss"
 images = ["img/drums.png"]
 
@@ -48,7 +48,7 @@ label = "Ipsum"
 style = "2"
 
 [[params.one.icon]]
-icon = "solid fa-anchor"
+icon = "solid fa-city"
 label = "Dolor"
 style = "3"
 
@@ -56,7 +56,7 @@ style = "3"
 enable = true
 
 [[params.two.section]]
-body = 'Our little lake. It has been in my wifes family for a long time.'
+body = "Our little lake. It has been in my wife's family for a long time."
 img = "img/lake.jpg"
 img_alt = "my lake"
 title = 'Hey There, Lake'
