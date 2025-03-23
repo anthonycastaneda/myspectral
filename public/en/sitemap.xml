@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -21,19 +21,22 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chatgpt/</loc>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/entra/</loc>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -49,6 +52,9 @@
                 hreflang="en"
                 href="http://localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
