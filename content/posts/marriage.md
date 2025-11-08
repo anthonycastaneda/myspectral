@@ -2,14 +2,10 @@
 author = "Anthony Castañeda"
 title = "Marriage"
 date = "2025-11-07"
-description = "How Long?"
+description = "How long?"
 tags = [
-    "blog",
-    "counter",
+"blog",
+"marriage",
 ]
 +++
-
-<script>(function (d, s, id) { var js, pjs = d.getElementsByTagName[s](0); if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
-<a data-type="countup" data-id="474430" class="tickcounter"
-    style="display:block; left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto;"
-    title="Since March 02 2013" href="//www.tickcounter.com/countup">Since March 02 2013</a>
+<div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countup/474430" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Since March 02 2013"></iframe></div>

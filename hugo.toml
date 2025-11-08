@@ -6,6 +6,11 @@ theme = "spectral"
 title = "Anthony"
 #googleAnalytics = "G-XXXXXXXXXX"
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 body_is_markdown = true 
 copyright = "Anthony Castañeda" 
