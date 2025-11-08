@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/test/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;h1 id=&#34;dont-worry-this-is-not-a-blog&#34;&gt;Don&amp;rsquo;t worry, this is not a blog&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not going to start blogging, so don&amp;rsquo;t worry about that.  Just messing with md and Hugo posts.&#xA;orem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;dont-worry-this-is-not-a-blog&#34;&gt;Don&amp;rsquo;t worry, this is not a blog&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not going to start blogging, so don&amp;rsquo;t worry about that.  Just messing with md and Hugo posts.&#xA;orem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
