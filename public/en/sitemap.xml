@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -21,37 +21,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/marriage/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/marriage/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cars/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
@@ -68,11 +38,35 @@
     <loc>http://localhost:1313/posts/entra/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/curry/</loc>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/snare/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/tuning/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
