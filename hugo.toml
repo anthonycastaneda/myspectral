@@ -6,11 +6,6 @@ theme = "spectral"
 title = "Anthony"
 #googleAnalytics = "G-XXXXXXXXXX"
 
-[markup]
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
-
 [params]
 body_is_markdown = true 
 copyright = "Anthony Castañeda" 
@@ -37,7 +32,7 @@ tag = "tags"
 
 [params.one]
 body = '''
-I am a dad, a drummer, and an IT guy that lives in Texas.  I work in authentication currently, handling SSO. SAML, OIDC, OAuth2. One of my sons told me that I like computers 'too much.'  Maybe so.  I also really like mechanical keyboards, history, city planning, and messing around with static site generators. 
+I am a dad, a drummer, and an IT guy that lives in Texas.  I work in authentication currently, handling SSO. SAML, OIDC, the usual. One of my sons told me that I like computers 'too much.'  Maybe so.  I also really like mechanical keyboards, history, city planning, and messing around with static site generators. 
 '''
 enable = true
 title = 'About Me'
@@ -61,10 +56,10 @@ style = "3"
 enable = true
 
 [[params.two.section]]
-body = "Our little lake. It has been in my wife's family for a long time."
+body = "The lake.  Or big pond."
 img = "img/lake.jpg"
 img_alt = "my lake"
-title = 'Hey There, Lake'
+title = 'Quiet'
 
 [[params.two.section]]
 body = 'One year my mom got me the Holy Grail for my birthday.  She chose wisely.  I was very impressed that she was able to find it.'
